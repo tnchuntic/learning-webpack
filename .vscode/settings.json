@@ -1,0 +1,6 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "vscode_custom_css.imports": [
+            "vscode_custom_css.imports": ["file:///Users/thomaschuntic/_WEB/VS_CODE_THEME/hendrixer.css"]
+    ]
+}
